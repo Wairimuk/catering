@@ -5,3 +5,6 @@ img {
 .card-body-1 p {
   font-weight: bold;
 }
+.card {
+  background-color: aquamarine;
+}
